@@ -1,0 +1,14 @@
+C:\Users\e not vicienz\source\repos\Snak\Snak\obj\Debug\netcoreapp3.1\Snak.csproj.AssemblyReference.cache
+C:\Users\e not vicienz\source\repos\Snak\Snak\obj\Debug\netcoreapp3.1\Snak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e not vicienz\source\repos\Snak\Snak\obj\Debug\netcoreapp3.1\Snak.AssemblyInfoInputs.cache
+C:\Users\e not vicienz\source\repos\Snak\Snak\obj\Debug\netcoreapp3.1\Snak.AssemblyInfo.cs
+C:\Users\e not vicienz\source\repos\Snak\Snak\obj\Debug\netcoreapp3.1\Snak.csproj.CoreCompileInputs.cache
+C:\Users\e not vicienz\source\repos\Snak\Snak\bin\Debug\netcoreapp3.1\Snak.exe
+C:\Users\e not vicienz\source\repos\Snak\Snak\bin\Debug\netcoreapp3.1\Snak.deps.json
+C:\Users\e not vicienz\source\repos\Snak\Snak\bin\Debug\netcoreapp3.1\Snak.runtimeconfig.json
+C:\Users\e not vicienz\source\repos\Snak\Snak\bin\Debug\netcoreapp3.1\Snak.runtimeconfig.dev.json
+C:\Users\e not vicienz\source\repos\Snak\Snak\bin\Debug\netcoreapp3.1\Snak.dll
+C:\Users\e not vicienz\source\repos\Snak\Snak\bin\Debug\netcoreapp3.1\Snak.pdb
+C:\Users\e not vicienz\source\repos\Snak\Snak\obj\Debug\netcoreapp3.1\Snak.dll
+C:\Users\e not vicienz\source\repos\Snak\Snak\obj\Debug\netcoreapp3.1\Snak.pdb
+C:\Users\e not vicienz\source\repos\Snak\Snak\obj\Debug\netcoreapp3.1\Snak.genruntimeconfig.cache
